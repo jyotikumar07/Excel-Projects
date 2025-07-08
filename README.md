@@ -1,1 +1,1 @@
-This repositoru is the collection of all the Excel dashboards
+This repository is a collection of all the Excel dashboards.
