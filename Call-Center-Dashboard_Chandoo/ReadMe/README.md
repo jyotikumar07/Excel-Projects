@@ -3,7 +3,8 @@
 
 ### 🔍 Project Overview
 
-An Interactive dashbooard designed to provide a compact visual, performance summary of call center representatives.
+* Developed a performance dashboard for a team of 5 representatives using advanced excel, including pivot tables and pivot chart.
+* Analyzed transactions totaling over $96K, highlighted top performers.
 
 ### 🥁 Key Visual Features
 
@@ -13,7 +14,7 @@ An Interactive dashbooard designed to provide a compact visual, performance summ
 * **Performance across different Cities:** Highlighted the selected representative and their performance is shown using data bars.
 
 ### 🔑 Tools used
-* **Microsoft Excel** ( PowerQuery, Power Pivot, PivotTables, Charts, Slicers, Conditional Fromatting)
+* **Microsoft Excel** ( PowerQuery, Power Pivot, PivotTables, Charts, Slicers, Conditional Fromatting.
 
 
 
